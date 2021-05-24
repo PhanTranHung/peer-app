@@ -1,0 +1,14 @@
+{
+  "calling": "server contacts to target ID with data {myPartnerContact, myPartnerId}",
+  "connect": "connect",
+  "disconnect": "disconnect",
+  "connect_error": "connect_error",
+  "new_connection": "receive an ID",
+  "initial_headers": "initial_headers",
+  "headers": "headers",
+  "call": "server client calls other client, server receives { targetId: 'id', myContact: data }",
+  "all_user": "server send list socket id to all client"
+  ,"accept_call": "accept_call",
+  "call_accepted": "call_accepted",
+  "call_user": "call_user"
+}
