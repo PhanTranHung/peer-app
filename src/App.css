@@ -1,7 +1,19 @@
-.container{
+*{
+  box-sizing: border-box;
+}
 
+body{
+  width: 100%;
+}
+
+.body {
+width: 100%;
+}
+
+.container{
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 .row  {
   flex-basis: auto;
@@ -44,3 +56,4 @@
 .visible{
   visibility: visible !important;
 }
+

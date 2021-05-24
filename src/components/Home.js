@@ -139,7 +139,7 @@ const Home = () => {
   }, []);
 
   return (
-    <div>
+    <div className="body">
       <div className={`popup ${incomimgCall && "visible"}`}>
         <div className="popup-message">{`${caller} want to make a video call with you`}</div>
         <div className="actions">
