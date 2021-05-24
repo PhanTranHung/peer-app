@@ -173,7 +173,7 @@ const Home = () => {
         </div>
         <div className="row">
           <div className="other">
-            <video ref={clientVideo} playsInline muted autoPlay />
+            <video ref={clientVideo} playsInline autoPlay />
           </div>
         </div>
       </div>
