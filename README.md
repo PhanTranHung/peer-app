@@ -1,5 +1,7 @@
 # Getting Started
 
+Chage `REACT_APP_ENDPOINT` in `.env` file
+
 To run React app in HTTPS
 `yarn starts` or `npm run starts`
 
